@@ -8,6 +8,9 @@ HiDomainer One-File Domain Portfolio Script, is a PHP script of only 8kb.
     1. PC and Mobile Friendly
     2. Data management without page refresh 
 
+###  Server Require
+    1. Nginx / Apache / Other...
+    2. PHP Any Version 
      
 ### Configuration 
 Open the index.php file and modify the Password and Currency Symbol. 
