@@ -29,13 +29,17 @@ Domain|Price|Introduction|BuyLink
 
 One domain per line, use {domain} to replace domain in BuyLink
 
-### About HiDomainer
-HiDomainer provide professional Domain Portfolio and Management Script.  
-HomePage: [http://www.hidomainer.com/](http://www.hidomainer.com/?f=github)
+### How to use
+Upload index.php and data.json to your server, and then visit your website.
 
 ### Live Demo
 
 * [http://demo.hidomainer.com/1/](http://demo.hidomainer.com/1/?f=github)
+
+### About HiDomainer
+HiDomainer provide professional Domain Portfolio and Management Script.  
+HomePage: [http://www.hidomainer.com/](http://www.hidomainer.com/?f=github)
+
 
 #### Screenshot-1
 ![Screenshot-1](https://raw.githubusercontent.com/HiDomainer/One-File-Domain-Portfolio-Script/main/screenshot-1.png)  
