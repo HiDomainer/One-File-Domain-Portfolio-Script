@@ -170,6 +170,7 @@ function showAlert(result,text){Popup.alert(result,text);}
 <textarea name="code" class="textarea" style="height: 2.2em;">'.$config['code'].'</textarea>
 <p class="center"><input name="password" type="text" autocomplete="off"  size="16" placeholder="Password" class="password"/><input type="submit" value="Save" class="save"></p>
 <p class="center"><a href="http://www.hidomainer.com/?f=1">Powered by HiDomainer.com</a></p>
+</form>
 </div>
 </body>
 </html>';
